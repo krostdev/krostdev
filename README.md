@@ -30,5 +30,5 @@
 
 <div align="center">
   <a href="https://discord.com/users/1140888064739250219"> 
-  <img height="170em" src="https://lanyard.cnrad.dev/api/1140888064739250219?borderRadius=30px&idleMessage=Desenvolvedor Front-End"/>
+  <img height="170em" src="https://lanyard.cnrad.dev/api/1140888064739250219?borderRadius=30px&idleMessage=DesenvolvedorﾠFront-End"/>
 </div>
