@@ -1,5 +1,5 @@
 <h1 align="center">About me:</h1>
-<p align="center">Hello, my name is Augusto Kauan, I'm a front-end programmer, and I love playing some games from time to time!</p>
+<p align="center">Hello, my name is Augusto Kauan, I'm a back-end student, and I love playing some games from time to time!</p>
 <h1 align="center">Programming languages:</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
