@@ -1,10 +1,31 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<div align="center">
-  <a href="https://krostdev.online"> 
-  <img src="https://cdn.discordapp.com/attachments/1156396053034180639/1171916933982072842/image-removebg-preview.png?ex=655e6bb2&is=654bf6b2&hm=72b57e1320c3742e8a2aaa8d305e33fd356420de6eb34f4088081676c1db1807&"/>
-</div>
+<p align="left"> 
+  Olá meu chamo Augusto Kauan e sou estudante <strong>BackEnd</strong>.<br>
+  Estou cursando o 1º Ano do Ensimo Médio, e pretendo me formar em T.I
+</p>
 
-#
+<p align="left">
+  ⭐ Projetos Secundarios (discord): <strong> https://github.com/krostport-discord </strong>
+</p>
 
-![krostport's Stats](https://github-readme-stats.vercel.app/api?username=krostport&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![krostport's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krostport&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<p align="left">
+  🦄 Linguagens: <strong>Javascript, Typescript</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Visual Studio Code e Figma</strong>
+</p>
+
+<p align="left">
+  💌 Para entrar em contato comigo, use as plataformas abaixo: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:augustokauanpsilva@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+
+  <a href="https://discord.gg/zNB4DEpSJ4">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
