@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript, Typescript</strong>
+  🦄 Habilidades: <strong>Javascript, Python, MongoDB, Html, Css</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code e Figma</strong>
+  💼 Ferramentas: <strong>Visual Studio Code</strong>
 </p>
 
 <p align="left">
