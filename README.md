@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá meu chamo Augusto Kauan e sou estudante <strong>BackEnd</strong>.<br>
+  Olá meu chamo Augusto Kauan e sou estudante <strong>Backend</strong>.<br>
   Estou cursando o 1º Ano do Ensimo Médio, e pretendo me formar em T.I
 </p>
 
 <p align="left">
-  ⭐ Projetos Secundarios (discord): <strong> https://github.com/krostport-discord </strong>
+  ⭐ https://www.krostdev.online/
 </p>
 
 <p align="left">
