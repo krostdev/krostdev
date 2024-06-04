@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>Javascript, Python, MongoDB, Html, Css</strong>
+  🦄 Habilidades: <strong>Javascript, NodeJS, Python, MongoDB, EJS, HTML, CSS</strong>
 </p>
 
 <p align="left">
