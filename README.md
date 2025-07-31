@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá meu chamo Augusto Kauan e sou estudante <strong>Backend</strong>.<br>
-  Estou cursando o 1º Ano do Ensimo Médio, e pretendo me formar em T.I
+  Olá meu chamo Augusto Kauan e sou estudante de programação <strong>FullStack</strong>.<br>
+  Estou cursando o 2º Ano do Ensimo Médio, e pretendo me formar em T.I
 </p>
 
 <p align="left">
-  ⭐ https://www.krostdev.online/
+  ⭐ Em breve
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>Javascript, NodeJS, Python, MongoDB, EJS, HTML, CSS</strong>
+  🦄 Habilidades: <strong>HTML5, CSS3, ReactJS, NodeJS, Python, MongoDB</strong>
 </p>
 
 <p align="left">
