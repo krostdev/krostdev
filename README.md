@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  ⭐ Em breve
+  ⭐ https://augustokauan.vercel.app/ (Ainda em desenvolvimento)
 </p>
 
 <p align="left">
